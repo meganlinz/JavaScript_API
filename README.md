@@ -8,3 +8,6 @@
 - Select marks in visualizations.
 - Respond to events in visualizations.
 - Export visualizations to an image or PDF file.
+
+## JavaScript API Step by Step Tutorial
+https://onlinehelp.tableau.com/samples/en-us/js_api/tutorial.htm
